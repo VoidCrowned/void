@@ -1,1 +1,1 @@
-# void
+# Nothing to see here. Yet
